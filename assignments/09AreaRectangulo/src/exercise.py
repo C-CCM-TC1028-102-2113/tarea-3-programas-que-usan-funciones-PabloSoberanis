@@ -1,7 +1,7 @@
 
 def area(b,a):
-    a = (b * a)
-    return a
+    ar = (b * a)
+    return ar
 
 def main():
     b = float(input("Dame la base: "))
